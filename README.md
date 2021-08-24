@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+关于为什么我的项目有一个人:mincoft(github@mincoft)
+这个也是我,因为Repo太多,加上部分历史遗留问题,现转由这个账号使用,不用管那个人.
 <!--
 **K2FeO4cn/K2FeO4cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
