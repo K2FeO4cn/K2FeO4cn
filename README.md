@@ -1,8 +1,6 @@
 ### Hi there 👋
 Here is K2FeO4cn ,a senior middle school student.
 
-[My Blog](https://www.geto.su/)
-
 [![K2FeO4cn's GitHub stats](https://github-readme-stats.vercel.app/api?username=K2FeO4cn&show_icons=true&theme=onedark&layout=compact&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
